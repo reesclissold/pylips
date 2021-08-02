@@ -290,6 +290,13 @@
 				"key": "VolumeDown"
 			}
 		},
+		"volume_default": {
+			"path": "audio/volume",
+			"body": {
+				"muted": false,
+				"current": 12
+			}
+		},
 		"channel_up": {
 			"path": "input/key",
 			"body": {
